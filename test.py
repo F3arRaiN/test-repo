@@ -1,0 +1,1 @@
+print("hello user.\nWelcome to your first simple python program")
